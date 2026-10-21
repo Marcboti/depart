@@ -1,0 +1,14 @@
+Cas Awa avec budget 50000 :
+> node .\depenses.js
+> Nom : Awa
+Budget initial : 50000 FCFA
+Dépenses de transport : 12500 FCFA
+Dépenses d'alimentation : 18300 FCFA
+Dépenses de loisirs : 7500 FCFA
+Total des dépenses : 38300 FCFA
+Budget restant : 11700 FCFA
+Budget respecté : Oui
+
+Variation budget 30000 :
+> node .\depenses.js
+> 
