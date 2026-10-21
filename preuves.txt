@@ -11,4 +11,11 @@ Budget respecté : Oui
 
 Variation budget 30000 :
 > node .\depenses.js
-> 
+> Nom : Awa
+Budget initial : 30000 FCFA
+Dépenses de transport : 12500 FCFA
+Dépenses d'alimentation : 18300 FCFA
+Dépenses de loisirs : 7500 FCFA
+Total des dépenses : 38300 FCFA
+Budget restant : -8300 FCFA
+Budget respecté : Non
